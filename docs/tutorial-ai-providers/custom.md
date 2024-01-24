@@ -2,4 +2,4 @@
 sidebar_position: 1
 ---
 
-# Custom the provider
+# Customize the provider
